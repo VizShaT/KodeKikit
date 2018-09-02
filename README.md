@@ -1,3 +1,3 @@
 ## KikitKode
 
-My code and tutorials collections
+My code and tutorials collections. More to come.
